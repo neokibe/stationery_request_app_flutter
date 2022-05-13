@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383021818497",
+    "project_id": "stationery-request-app",
+    "storage_bucket": "stationery-request-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383021818497:android:97ea69edccd6b827c02380",
+        "android_client_info": {
+          "package_name": "com.example.stationery_request_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383021818497-7a2uktc7dhmv3ra1ssb4clh70rt8tn6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgajZgGPE3hq9zMkA3YLqeVn0M-M0vvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383021818497-7a2uktc7dhmv3ra1ssb4clh70rt8tn6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
